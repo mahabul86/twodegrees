@@ -1,0 +1,447 @@
+    .is-content-500 {
+        max-width: 540px !important;
+    }
+    .is-wrapper .is-section-margin-4 .is-box-centered .is-container {
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    button.kol-copy-and-paste-icon.btn.has-set-radius {
+        display: none;
+    }
+    .kol-copy-and-paste-sharelink-container {
+        max-width: 100%;
+        margin: 0 auto;
+        width: 95%;
+    }
+    .kol-copy-and-paste-sharelink {
+        border: 1px solid #AFABAB;
+    }
+    div#custom-alert p {
+        font-family: "Futura PT W01 Light";
+        color: #fff;
+        font-size: 20px;
+    }
+    div#emoticon-icons {
+        right: 75px;
+        position: absolute;
+        bottom: 10px;
+    }
+    div#emoticon-icons img {
+        margin: 1px;
+    }
+    button#close {
+        background: transparent;
+        border: none;
+        display: inline-block;
+        padding-bottom: 25px;
+        right: 1%;
+        position: absolute;
+        width: 28px;
+    }
+    div#custom-alert .wrapper {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    div#custom-alert {
+        background: #072C16;
+        padding: 12px 0 0 5px;
+    }
+    .alert-div {
+        display:none;
+    }
+    .alert-div.show {
+        display:block;
+    }
+    div#how_icons img {
+        margin: 0 20px 0 0;
+    }
+    hr {
+        width: 3%;
+        border: 2px solid #072C16;
+    }
+    .is-section.is-section-margin-0.kol-editable-section.is-light-text.is-box.is-section-auto.is-align-left {
+        padding: 0 !important;
+    }
+    div#custom-alert p img {
+        margin: 0 6px 1px;
+        padding: 0;
+        display: inline-block;
+        vertical-align: text-bottom;
+    }
+    .referral-tracker-rewards .reward-level-text {
+        background-color: #AFABAB;
+    }
+    .referral-tracker .left-handle, .referral-tracker .right-handle {
+        background: #f2f2f2;
+    }
+    .is-container.container-fluid.is-stacking-rows.is-content-0 {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    div#how_icons {
+        left: 12%;
+        position: absolute;
+        top: 10%;
+    }
+    div#kol-row-id-havarvflhk7, div#kol-row-id-2q3qkn2tlba {
+        text-align: center;
+    }
+    div#kol-row-id-2q3qkn2tlba p {
+        margin-left: -8.2%;
+    }
+    div#refresh-icon {
+        position: absolute;
+        left: 37%;
+        top: -3px;
+    }
+    .single-image {
+        position: relative;
+        width: 100%;
+        height: 60px;
+        }
+    .pic img {
+        width: 160px;
+        height: 96px;
+    }
+    .picbig {
+        position: absolute;
+        z-index: 10;
+        left: 50%;
+        max-width: 620px;
+        transform: translate(-50%, -98%);
+        top: -10px;
+        display: none;
+        border: 3px solid #f2f2f2;
+    }
+    div#id-ym0clyf4h7k .picbig {
+        left: 160% !important;
+    }
+    div#id-78e8w1gwd5h .picbig {
+        left: -60%;
+    }
+    .pic:hover + .picbig {
+        display: block;
+    }   
+    div#kol-row-id-ym0clyf4h7k, div#kol-row-id-2p8lyx8awg8, div#kol-row-id-yppq5kmer0d, div#kol-row-id-dpqa3424dp, div#kol-row-id-78e8w1gwd5h {
+        margin-bottom: 40px;
+    }
+    div.referral-message h3, #id-5zj3oakft6b .reward-level-prize, p.only_mobile_text, br.gap_text {
+        display: none;
+    }
+    div#contentareag1MaM h3, div#contentarealtxxB h3 {
+        padding: 0 25px;
+    }
+    div#contentareaDgrt4 h3 {
+        padding: 0 15px;
+    }
+    div#kol-row-id-5zj3oakft6b {
+        margin-bottom: -40px;
+    }
+    div#contentareaDgrt4 {
+        margin-left: 35px;
+    }
+    div#contentareaDk76k {
+        margin-left: 67px;
+    }
+    div#contentarearJ3Uq {
+        margin-right: 32px;
+    }
+    div#contentarealtxxB {
+        margin-right: 67px;
+    }
+    div#contentarealtxxB .details_p, div#contentareag1MaM .details_p {
+        width: 160px;
+        margin-left: -16px;
+    }
+    div#contentareaDk76k .details_p, div#contentareag1MaM .details_p {
+        margin: 0 auto 10px;
+    }
+    div#contentareaDk76k .details_p {
+        width: 155px;
+        margin-left: -14px;
+    }
+    div#contentareaE8wn9 p {
+        padding: 0 20px;
+    }
+    .kol-copy-and-paste-sharelink-container {
+        width: 85%;
+    }
+    .input-group-btn {
+        width: 0;
+    }
+    .kol-btn.kol-btn-sharing .fa {
+        font-size: 20px;
+    }
+    .kol-btn.kol-btn-sharing {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    div#contentarealtxxB p.details_p_middle {
+        width: 175px;
+        margin-left: -23px;
+    }
+    p.details_p_middle {
+        width: 175px;
+        margin-left: -25px;
+    }
+    p.details_p_bottom {
+        width: 165px;
+        margin-left: 4px;
+    }
+    .referral-tracker {
+        margin: 20px auto 0px;
+    }
+    p.gap_top {
+        margin-top: 15px;
+    }
+    .icon-cross {
+        padding-top: 10px;
+        display: inline-block;
+    }
+    .icon-cross:before, .icon-cross:after {
+        position: absolute;
+        height: 2px;
+        width: 28px;
+        background-color: #fff;
+        left: 0;
+        content: "";
+        transform: rotate(40deg);
+    }
+    .icon-cross:after{
+        transform:rotate(-40deg);
+    }
+    /* Font Style */ 
+    @font-face{
+        font-family:"Futura PT W01 Bold";
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/88a061c2-3303-401d-85e9-619b5ea5f5af.eot?13565956662583622274");
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/88a061c2-3303-401d-85e9-619b5ea5f5af.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/1a34942e-33ed-43bb-b229-7460d55b49f7.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/baecea54-cfd3-4578-8717-abf89eba62b6.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/f275eebe-30f5-4068-9294-51dc44c8409e.ttf?13565956662583622274") format("truetype");
+    }
+    @font-face{
+        font-family:"Futura PT W01 Light";
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/9869762c-2f06-40c3-929e-2d412d64cd87.eot?13565956662583622274");
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/9869762c-2f06-40c3-929e-2d412d64cd87.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/9ad55860-bbe2-4e51-be58-08b45bdda354.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/eceb6e13-403b-4d2b-af74-c05bc9c2535e.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/956fd236-834e-4736-91af-a04cadf17544.ttf?13565956662583622274") format("truetype");
+    }
+    @font-face{
+        font-family:"Futura PT W01 Medium";
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/c0b084f4-7139-4e63-ba96-7f3a421195c3.eot?13565956662583622274");
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/c0b084f4-7139-4e63-ba96-7f3a421195c3.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/f7552419-a773-41ab-ae4a-b12b1d853f02.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/83e72918-97c3-41cd-8a7d-4056788a00f0.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/5b88228b-bd3b-49f4-b7c2-db89968ce116.ttf?13565956662583622274") format("truetype");
+    }
+    div#contentareaE8wn9 h1 {
+        font-family: "Futura PT W01 Bold";
+        font-size: 28px;
+    }
+    div#contentareaE8wn9 p, input#id-z4277ddwk9 {
+        font-family: "Futura PT W01 Light";
+        font-size: 19px;
+    }
+    input#id-z4277ddwk9 {
+        font-size: 20px;
+    }
+    div#id-173q79jj62h h3 {
+        font-family: "Futura PT W01 Medium" !important;
+        font-size: 24px !important;
+    }
+    div#kol-row-id-havarvflhk7 p, div#kol-row-id-2q3qkn2tlba p, div#contentareaqt4qT h1 span {
+        font-family: "Futura PT W01 Medium" !important;
+        font-size: 17px !important;
+    }
+    .kol-referral-tracker.referral-tracker.is-no-col-resizing.row span, p.medium_p {
+        font-family: "Futura PT W01 Medium"  !important;
+    }
+    div#id-173q79jj62h h3 {
+        color: #072c16 !important;
+    }
+    .referral-tracker-rewards .reward-level-text {
+        font-size: 20px !important;
+    }
+    div#contentareaDk76k h3, div#contentareaDgrt4 h3, div#contentareag1MaM h3, div#contentarearJ3Uq h3, div#contentarealtxxB h3 {
+        line-height: 22px;
+    }
+    p.details_p, div#contentareaDk76k h3, div#contentareaDgrt4 h3, div#contentareag1MaM h3, div#kol-row-id-x3tvbefuscl h3, div#kol-row-id-hffogqptgan h3 {
+        font-family: "Futura PT W01 Medium" !important;
+        font-size: 18px;
+    }
+    div#contentareaDk76k p, div#contentareaDgrt4 p, div#contentareag1MaM p, div#kol-row-id-x3tvbefuscl p, div#kol-row-id-hffogqptgan p, div#contentareapEfvj p {
+        font-family: "Futura PT W01 Light";
+        font-size: 18px;
+        line-height: 22px;
+    }
+    /* Tablet Device Style */ 
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+    div#kol-row-id-havarvflhk7 p, div#kol-row-id-2q3qkn2tlba p {
+        padding: 0 85px;
+    }
+    div#kol-row-id-2q3qkn2tlba p {
+        margin-left: 15px;
+    }
+    div#kol-row-id-5zj3oakft6b {
+        margin-bottom: -50px;
+    }
+    div#how_icons {
+        top: 5%;
+    }
+    p.details_p, div#contentareaDk76k h3, div#contentareaDgrt4 h3, div#contentareag1MaM h3, div#kol-row-id-x3tvbefuscl h3, div#kol-row-id-hffogqptgan h3, div#contentareaDk76k p, div#contentareaDgrt4 p, div#contentareag1MaM p, div#kol-row-id-x3tvbefuscl p, div#kol-row-id-hffogqptgan p, div#contentareapEfvj p, div#custom-alert p {
+        font-size: 16px;
+    }
+    div#refresh-icon {
+        left: 33%;
+    }
+    p.only_mobile_text, br.gap_text {
+        display: none;
+    }
+    div#contentareaDk76k {
+        margin-left: 10px;
+    }
+    div#contentarealtxxB {
+        margin-right: 15px;
+    }
+    div#contentarearJ3Uq {
+        margin-right: 0px;
+    }
+    div#contentareaDk76k .details_p {
+        width: auto;
+    }
+    div#contentareag1MaM h3, div#contentareaDgrt4 h3, div#contentarealtxxB h3 {
+        padding: 0 0px;
+    }
+    div#contentarealtxxB .details_p, div#contentareag1MaM .details_p {
+        width: auto;
+        margin-left: 0;
+    }
+    div#kol-row-id-x3tvbefuscl {
+        width: 140px;
+        margin: 0 auto;
+    }
+    p.details_p_bottom {
+        width: 100px;
+        margin-left: 0;
+        margin: 0 auto;
+    }
+    p.details_p_middle {
+        width: 100px;
+        margin-left: -8px;
+    }
+    button#close {
+        width: 22px;
+    }
+    .icon-cross:before, .icon-cross:after {
+        width: 22px;
+    }
+    #id-5zj3oakft6b .reward-level-prize {
+        display: block;
+        line-height: 26px;
+        position: relative;
+        font-family: "Futura PT W01 Medium";
+        left: -45px;
+        top: -45px;
+    }
+}
+    /* Mobile Device Style */ 
+    @media only screen and (max-width: 767px) {
+    div#custom-alert p {
+        font-size: 15.5px;
+        padding-left: 15px;
+    }
+    div#custom-alert {
+        padding: 12px 0 0px 0px;
+    }
+    button#close {
+        padding-bottom: 0;
+        right: 2%;
+        bottom: 35px;
+    }
+    div#contentareaE8wn9 p, input#id-z4277ddwk9 {
+        font-size: 19px;
+        line-height: 22px;
+    }
+    div#emoticon-icons {
+        right: 63px;
+        bottom: 3px;
+    }
+    div#emoticon-icons img {
+        height: 17px !important;
+        width: 17px !important;
+    }
+    input#id-z4277ddwk9 {
+        font-size: 17px;
+    }
+    div#kol-row-id-8ulfpv3um2b h1 span {
+        font-size: 22px !important;
+    }
+    div#kol-row-id-havarvflhk7 p, div#kol-row-id-2q3qkn2tlba p {
+        padding: 0 20px;
+        text-align: left;
+        margin-left: 20px;
+    }
+    div#how_icons {
+        left: 4%;
+        top: 4%;
+    }
+    div#id-173q79jj62h h3 {
+        padding: 0 15px;
+        font-size: 24px;
+    }
+    div#kol-row-id-5zj3oakft6b {
+        margin-bottom: 0;
+        margin-top: -20px;
+    }
+    #id-5zj3oakft6b .reward-level-prize {
+        display: block;
+        padding: 0;
+        position: relative;
+        margin-top: -35px;
+        left: -10%;
+        line-height: 26px;
+        font-family: "Futura PT W01 Medium";
+    }
+    div#refresh-icon {
+        left: 10%;
+    }
+    div.reward-level-prize p.details_p {
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    p.only_mobile_text, br.gap_text {
+        display: block;
+    }
+    .is-content-500 {
+        max-width: 340px !important;
+    }
+    .is-wrapper .is-section-margin-4 .is-box-centered .is-container {
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+    div#contentareaE8wn9 p {
+        padding: 0;
+    }
+    div#contentareaE8wn9 p {
+        font-size: 18px;
+    }
+    div#contentareaE8wn9 >.row {
+        padding-top: 20px !important;
+    }
+    .kol-copy-and-paste-sharelink-container {
+        width: 95%;
+    }
+    div#kol-row-id-cdlcy58x6o4 {
+        padding-bottom: 20px !important;
+    }
+    .reward-level-prize h3 {
+        margin-bottom: 0;
+        line-height: 24px;
+    }
+    div#kol-row-id-ctyb6tse0rl {
+        margin-top: -15px;
+    }
+    button#close {
+        width: 22px;
+    }
+    .icon-cross:before, .icon-cross:after {
+        width: 22px;
+    }
+    p.medium_p a {
+        margin-top: 10px !important;
+        display: inline-block;
+    }
+}
