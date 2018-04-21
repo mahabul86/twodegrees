@@ -1,3 +1,19 @@
+    /* Font Style */ 
+    @font-face{
+        font-family:"Futura PT W01 Bold";
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/88a061c2-3303-401d-85e9-619b5ea5f5af.eot?13565956662583622274");
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/88a061c2-3303-401d-85e9-619b5ea5f5af.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/1a34942e-33ed-43bb-b229-7460d55b49f7.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/baecea54-cfd3-4578-8717-abf89eba62b6.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/f275eebe-30f5-4068-9294-51dc44c8409e.ttf?13565956662583622274") format("truetype");
+    }
+    @font-face{
+        font-family:"Futura PT W01 Light";
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/9869762c-2f06-40c3-929e-2d412d64cd87.eot?13565956662583622274");
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/9869762c-2f06-40c3-929e-2d412d64cd87.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/9ad55860-bbe2-4e51-be58-08b45bdda354.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/eceb6e13-403b-4d2b-af74-c05bc9c2535e.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/956fd236-834e-4736-91af-a04cadf17544.ttf?13565956662583622274") format("truetype");
+    }
+    @font-face{
+        font-family:"Futura PT W01 Medium";
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/c0b084f4-7139-4e63-ba96-7f3a421195c3.eot?13565956662583622274");
+        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/c0b084f4-7139-4e63-ba96-7f3a421195c3.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/f7552419-a773-41ab-ae4a-b12b1d853f02.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/83e72918-97c3-41cd-8a7d-4056788a00f0.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/5b88228b-bd3b-49f4-b7c2-db89968ce116.ttf?13565956662583622274") format("truetype");
+    }
     .is-content-500 {
         max-width: 540px !important;
     }
@@ -193,22 +209,6 @@
     }
     .icon-cross:after{
         transform:rotate(-40deg);
-    }
-    /* Font Style */ 
-    @font-face{
-        font-family:"Futura PT W01 Bold";
-        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/88a061c2-3303-401d-85e9-619b5ea5f5af.eot?13565956662583622274");
-        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/88a061c2-3303-401d-85e9-619b5ea5f5af.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/1a34942e-33ed-43bb-b229-7460d55b49f7.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/baecea54-cfd3-4578-8717-abf89eba62b6.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/f275eebe-30f5-4068-9294-51dc44c8409e.ttf?13565956662583622274") format("truetype");
-    }
-    @font-face{
-        font-family:"Futura PT W01 Light";
-        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/9869762c-2f06-40c3-929e-2d412d64cd87.eot?13565956662583622274");
-        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/9869762c-2f06-40c3-929e-2d412d64cd87.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/9ad55860-bbe2-4e51-be58-08b45bdda354.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/eceb6e13-403b-4d2b-af74-c05bc9c2535e.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/956fd236-834e-4736-91af-a04cadf17544.ttf?13565956662583622274") format("truetype");
-    }
-    @font-face{
-        font-family:"Futura PT W01 Medium";
-        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/c0b084f4-7139-4e63-ba96-7f3a421195c3.eot?13565956662583622274");
-        src:url("https://cdn.shopify.com/s/files/1/2588/8202/files/c0b084f4-7139-4e63-ba96-7f3a421195c3.eot?13565956662583622274") format("eot"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/f7552419-a773-41ab-ae4a-b12b1d853f02.woff2?13565956662583622274") format("woff2"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/83e72918-97c3-41cd-8a7d-4056788a00f0.woff?13565956662583622274") format("woff"),url("https://cdn.shopify.com/s/files/1/2588/8202/files/5b88228b-bd3b-49f4-b7c2-db89968ce116.ttf?13565956662583622274") format("truetype");
     }
     div#contentareaE8wn9 h1 {
         font-family: "Futura PT W01 Bold";
