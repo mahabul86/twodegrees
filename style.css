@@ -129,9 +129,6 @@
     div.referral-message h3, #id-5zj3oakft6b .reward-level-prize, p.only_mobile_text, br.gap_text {
         display: none;
     }
-    div#contentareag1MaM h3, div#contentarealtxxB h3 {
-        padding: 0 25px;
-    }
     div#contentareaDgrt4 h3 {
         padding: 0 15px;
     }
@@ -140,26 +137,24 @@
     }
     div#contentareaDgrt4 {
         margin-left: 35px;
+        text-align: center;
     }
     div#contentareaDk76k {
-        margin-left: 67px;
+        margin-left: 37px;
+        width: 190px;
+        text-align: center;
     }
     div#contentarearJ3Uq {
         margin-right: 32px;
+        text-align: center;
     }
     div#contentarealtxxB {
-        margin-right: 67px;
-    }
-    div#contentarealtxxB .details_p, div#contentareag1MaM .details_p {
-        width: 160px;
-        margin-left: -16px;
+        margin-left: -22px;
+        width: 170px;
+        text-align: center;
     }
     div#contentareaDk76k .details_p, div#contentareag1MaM .details_p {
         margin: 0 auto 10px;
-    }
-    div#contentareaDk76k .details_p {
-        width: 155px;
-        margin-left: -14px;
     }
     div#contentareaE8wn9 p {
         padding: 0 20px;
@@ -176,18 +171,6 @@
     .kol-btn.kol-btn-sharing {
         padding-left: 0px;
         padding-right: 0px;
-    }
-    div#contentarealtxxB p.details_p_middle {
-        width: 175px;
-        margin-left: -23px;
-    }
-    p.details_p_middle {
-        width: 175px;
-        margin-left: -25px;
-    }
-    p.details_p_bottom {
-        width: 165px;
-        margin-left: 4px;
     }
     .referral-tracker {
         margin: 20px auto 0px;
@@ -293,34 +276,15 @@
     div#contentareaDk76k {
         margin-left: 10px;
     }
-    div#contentarealtxxB {
-        margin-right: 15px;
-    }
     div#contentarearJ3Uq {
         margin-right: 0px;
     }
     div#contentareaDk76k .details_p {
         width: auto;
     }
-    div#contentareag1MaM h3, div#contentareaDgrt4 h3, div#contentarealtxxB h3 {
-        padding: 0 0px;
-    }
-    div#contentarealtxxB .details_p, div#contentareag1MaM .details_p {
-        width: auto;
-        margin-left: 0;
-    }
     div#kol-row-id-x3tvbefuscl {
         width: 140px;
         margin: 0 auto;
-    }
-    p.details_p_bottom {
-        width: 100px;
-        margin-left: 0;
-        margin: 0 auto;
-    }
-    p.details_p_middle {
-        width: 100px;
-        margin-left: -8px;
     }
     button#close {
         width: 22px;
