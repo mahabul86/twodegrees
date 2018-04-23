@@ -35,7 +35,7 @@
     div#custom-alert p {
         font-family: "Futura PT W01 Light";
         color: #fff;
-        font-size: 20px;
+        font-size: 17px;
     }
     div#emoticon-icons {
         right: 75px;
@@ -68,9 +68,6 @@
     }
     .alert-div.show {
         display:block;
-    }
-    div#how_icons img {
-        margin: 0 20px 0 0;
     }
     hr {
         width: 3%;
@@ -201,14 +198,14 @@
     .icon-cross:before, .icon-cross:after {
         position: absolute;
         height: 2px;
-        width: 28px;
+        width: 25px;
         background-color: #fff;
         left: 0;
         content: "";
-        transform: rotate(40deg);
+        transform: rotate(45deg);
     }
     .icon-cross:after{
-        transform:rotate(-40deg);
+        transform:rotate(-45deg);
     }
     div#contentareaE8wn9 h1 {
         font-family: "Futura PT W01 Bold";
@@ -249,6 +246,9 @@
         font-family: "Futura PT W01 Light";
         font-size: 18px;
         line-height: 22px;
+    }
+    p.p_separator {
+        margin-bottom: 17px;
     }
     /* Tablet Device Style */ 
     @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -331,12 +331,12 @@
         font-size: 17px;
     }
     div#kol-row-id-8ulfpv3um2b h1 span {
-        font-size: 22px !important;
+        font-size: 20px !important;
     }
     div#kol-row-id-havarvflhk7 p, div#kol-row-id-2q3qkn2tlba p {
         padding: 0 20px;
-        text-align: left;
-        margin-left: 20px;
+        text-align: center;
+        margin-left: 0;
     }
     div#how_icons {
         left: 4%;
@@ -407,5 +407,14 @@
     p.medium_p a {
         margin-top: 10px !important;
         display: inline-block;
+    }
+    div#kol-row-id-havarvflhk7 p, div#kol-row-id-2q3qkn2tlba p, div#contentareaqt4qT h1 span {
+        font-size: 20px !important;
+    }
+    .reward-level-prize h3 {
+        font-size: 20px;
+    }
+    span.how_number {
+        margin-right: -6px;
     }
 }
